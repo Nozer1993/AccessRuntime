@@ -1,2 +1,6 @@
 # AccessRuntime
 .net的Access批处理组件，可以批量执行sql语句和执行sql脚本
+AccessRuntime为测试项目
+AccessRuntime.Bin为组件项目
+
+具体的使用方式在项目内有详细的注释
