@@ -1,0 +1,11 @@
+D:\ws_sundun\AccessRuntime\AccessRuntime\obj\Debug\AccessRuntime.csprojResolveAssemblyReference.cache
+D:\ws_sundun\AccessRuntime\AccessRuntime\obj\Debug\AccessRuntime.FrmTest.resources
+D:\ws_sundun\AccessRuntime\AccessRuntime\obj\Debug\AccessRuntime.Properties.Resources.resources
+D:\ws_sundun\AccessRuntime\AccessRuntime\obj\Debug\AccessRuntime.csproj.GenerateResource.Cache
+D:\ws_sundun\AccessRuntime\AccessRuntime\obj\Debug\AccessRuntime.exe
+D:\ws_sundun\AccessRuntime\AccessRuntime\obj\Debug\AccessRuntime.pdb
+D:\ws_sundun\AccessRuntime\AccessRuntime\AccessRuntime.exe.config
+D:\ws_sundun\AccessRuntime\AccessRuntime\AccessRuntime.exe
+D:\ws_sundun\AccessRuntime\AccessRuntime\AccessRuntime.pdb
+D:\ws_sundun\AccessRuntime\AccessRuntime\AccessRuntime.Bin.dll
+D:\ws_sundun\AccessRuntime\AccessRuntime\AccessRuntime.Bin.pdb
